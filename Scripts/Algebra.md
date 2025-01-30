@@ -1,3 +1,4 @@
+```
 kill(all);
 
 eq1: l2*cos(alpha)=l0-l1*cos(theta)+l3*cos(phi); 
@@ -35,4 +36,4 @@ r1: solve([eq4], [t]);
 r2: r1[1];
 r3t: subst(tan(phi/2),t,r2);
 r3: subst(tan(phi/2),t,r1);
-
+```
