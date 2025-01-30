@@ -1,3 +1,5 @@
+Os comandos a seguir devem ser utilizados no software wxMaxima para o desenvolvimento algébrico da técnica de Freudenstein.
+
 ```
 kill(all);
 
