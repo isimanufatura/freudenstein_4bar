@@ -7,4 +7,3 @@ Este repositório contém códigos para a análise da posição e velocidade de 
 
 ✅ Métodos numéricos e analíticos para resolução do sistema.
 
-✅ Scripts organizados para facilitar simulações e visualizações.
