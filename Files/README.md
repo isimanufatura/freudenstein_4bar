@@ -1,1 +1,1 @@
-O [Freud_4bar](Freud_4bar.pdf) contém a fundamentação téorica da análise cinemática referente a às rotinas que estão presentes na pasta [Scripts](../Scripts). O Arquivo [algebra_freudenstein](algebra_freudenstein.wxmw) é o desenvolvimento algébrico efetuado em wxMáxima. 
+O arquivo em pdf [Freud_4bar](Freud_4bar.pdf) contém a fundamentação téorica da análise cinemática referente a às rotinas que estão presentes na pasta [Scripts](../Scripts). O Arquivo [algebra_freudenstein](algebra_freudenstein.wxmw) é o desenvolvimento algébrico efetuado em wxMáxima. 
