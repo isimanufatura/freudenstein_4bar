@@ -7,3 +7,4 @@ Este repositório contém códigos para a análise da posição e velocidade de 
 
 ✅ Métodos numéricos e analíticos para resolução do sistema.
 
+A fundamentação teórica para análise de posição e velocidade de um mecanismo de quatro barras esta apresentada no arquivo [Freud_4bar.pdf](\Files\Freud_4bar.pdf). A pasta [Script](\Scripts) contém as rotinas implementadas, que compreendem análise algébrica, implementação numérica em Julia e em Python. 
