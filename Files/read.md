@@ -1,1 +1,1 @@
-Arquivos para executar
+O pdf contém a fundamentação téorica da análise cinemática referente a às rotinas que estão prsentes na pasta Scripts. O Arquivo algebra_freudenstein.wxmx é o desenvolvimento algébrico efetuado no wxMáxima. 
